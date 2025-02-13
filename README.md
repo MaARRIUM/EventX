@@ -35,7 +35,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/haiderali780/EventOps.git
+   git clone https://github.com/MaARRIUM/EventX.git
    ```
 2. **Database Setup**:
    Configure and set up your database schema as per the provided SQL scripts.
